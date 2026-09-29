@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "11vE0SUytdM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CatRebornGit\\.gemini\\antigravity\\scratch\\WinPE-AdminTool\\WinPE_AdminTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CatRebornGit\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.5\\microsoft.net.illink.tasks.10.0.5.nupkg.sha512",
+    "C:\\Users\\CatRebornGit\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.5\\microsoft.netcore.app.runtime.win-x64.10.0.5.nupkg.sha512",
+    "C:\\Users\\CatRebornGit\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.5.nupkg.sha512",
+    "C:\\Users\\CatRebornGit\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.5\\microsoft.aspnetcore.app.runtime.win-x64.10.0.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Произошла ошибка при получении данных уязвимости пакета: Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\CatRebornGit\\.gemini\\antigravity\\scratch\\WinPE-AdminTool\\WinPE_AdminTool.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\CatRebornGit\\.gemini\\antigravity\\scratch\\WinPE-AdminTool\\WinPE_AdminTool.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
